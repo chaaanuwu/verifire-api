@@ -17,3 +17,6 @@ spring:
     show-sql: true
     hibernate:
       ddl-auto: create
+
+jwt:
+  secret: verifire(verifier)-api-jwt-secret;
